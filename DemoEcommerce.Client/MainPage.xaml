@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:viewmodels="clr-namespace:DemoEcommerce.Client.ViewModel"
+             x:Class="DemoEcommerce.Client.MainPage"
+             x:DataType="viewmodels:MainViewModel"
+             Title="{Binding PageTitle}">
+    <ScrollView>
+        <VerticalStackLayout
+                Spacing="25"
+                Padding="30,0"
+                VerticalOptions="Center">
+            <Image
+                    Source="dotnet_bot.png"
+                    SemanticProperties.Description="{Binding BotDescription}"
+                    HeightRequest="200"
+                    HorizontalOptions="Center" />
+            <Label
+                    Text="{Binding HelloWorld}"
+                    SemanticProperties.HeadingLevel="Level1"
+                    FontSize="32"
+                    HorizontalOptions="Center" />
+            <Label
+                    Text="{Binding WelcomeMessage}"
+                    SemanticProperties.HeadingLevel="Level2"
+                    SemanticProperties.Description="{Binding WelcomeDescription}"
+                    FontSize="18"
+                    HorizontalOptions="Center" />
+            <Button
+                    x:Name="CounterBtn"
+                    Text="{Binding ClickMeText}"
+                    SemanticProperties.Hint="{Binding CounterHint}"
+                    Clicked="OnCounterClicked"
+                    HorizontalOptions="Center" />
+
+            <Picker x:Name="LanguagePicker" Title="Select Language" SelectedIndexChanged="OnLanguageSelected">
+                <Picker.ItemsSource>
+                    <x:Array Type="{x:Type x:String}">
+                        <x:String>English</x:String>
+                        <x:String>Spanish</x:String>
+                        <x:String>French</x:String>
+                    </x:Array>
+                </Picker.ItemsSource>
+            </Picker>
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

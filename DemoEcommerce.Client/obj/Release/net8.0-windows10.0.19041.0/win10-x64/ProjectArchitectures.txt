@@ -1,0 +1,1 @@
+C:\Users\Netwin\Desktop\LANGUAGETRANSLATOR\DemoEcommerce.Client\DemoEcommerce.Client.csproj;x64

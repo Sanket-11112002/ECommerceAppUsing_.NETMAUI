@@ -1,0 +1,12 @@
+C:\Users\Netwin\Desktop\LANGUAGETRANSLATOR\DemoEcommerce.Library\bin\Release\net7.0\DemoEcommerce.Library.deps.json
+C:\Users\Netwin\Desktop\LANGUAGETRANSLATOR\DemoEcommerce.Library\bin\Release\net7.0\DemoEcommerce.Library.dll
+C:\Users\Netwin\Desktop\LANGUAGETRANSLATOR\DemoEcommerce.Library\bin\Release\net7.0\DemoEcommerce.Library.pdb
+C:\Users\Netwin\Desktop\LANGUAGETRANSLATOR\DemoEcommerce.Library\obj\Release\net7.0\DemoEcommerce.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Netwin\Desktop\LANGUAGETRANSLATOR\DemoEcommerce.Library\obj\Release\net7.0\DemoEcommerce.Library.AssemblyInfoInputs.cache
+C:\Users\Netwin\Desktop\LANGUAGETRANSLATOR\DemoEcommerce.Library\obj\Release\net7.0\DemoEcommerce.Library.AssemblyInfo.cs
+C:\Users\Netwin\Desktop\LANGUAGETRANSLATOR\DemoEcommerce.Library\obj\Release\net7.0\DemoEcommerce.Library.csproj.CoreCompileInputs.cache
+C:\Users\Netwin\Desktop\LANGUAGETRANSLATOR\DemoEcommerce.Library\obj\Release\net7.0\DemoEcommerce.Library.sourcelink.json
+C:\Users\Netwin\Desktop\LANGUAGETRANSLATOR\DemoEcommerce.Library\obj\Release\net7.0\DemoEcommerce.Library.dll
+C:\Users\Netwin\Desktop\LANGUAGETRANSLATOR\DemoEcommerce.Library\obj\Release\net7.0\refint\DemoEcommerce.Library.dll
+C:\Users\Netwin\Desktop\LANGUAGETRANSLATOR\DemoEcommerce.Library\obj\Release\net7.0\DemoEcommerce.Library.pdb
+C:\Users\Netwin\Desktop\LANGUAGETRANSLATOR\DemoEcommerce.Library\obj\Release\net7.0\ref\DemoEcommerce.Library.dll

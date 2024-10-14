@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Jw4j6Q0WF3fn2Hrfagv9U/y/zkDEvFu8VLJRb/DPlDc=",
+  "Source": "DemoEcommerce.Api",
+  "BasePath": "_content/DemoEcommerce.Api",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
