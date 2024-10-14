@@ -58,6 +58,10 @@ namespace DemoEcommerce.Client.ViewModels
             ShowCartEmptyLabel = false;
         }
 
+
+
+
+
         private void GetCheckSummary()
         {
             NumberOfItemsR = MyCartModel.Select(_ => _.OrderQuantity).Sum();
